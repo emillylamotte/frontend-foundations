@@ -224,9 +224,6 @@ A **Higher-Order Function (HOF)** is a function that either takes another functi
    ```
 
 ---
-Here’s the explanation about **Closures** in English with examples:
-
----
 
 ### **Closures**  
 
@@ -254,10 +251,6 @@ closureExample(); // Outputs: "I am from the outer scope"
 In this example, `innerFunction` is a closure because it has access to `outerVar` even after `outerFunction` has finished executing. This is possible because `innerFunction` "remembers" the scope in which it was created.
 
 ---
-Here’s a brief explanation of **Inheritance** in JavaScript, along with an example:
-
----
-
 ### **Inheritance**  
 
 **Inheritance** is a mechanism in object-oriented programming (OOP) where one object can acquire properties and methods from another. In JavaScript, inheritance is achieved through **prototypal inheritance**, where objects can inherit properties and methods from other objects.
